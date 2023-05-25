@@ -7,3 +7,6 @@
 
 -> a new version -> a new commit
 if we have to create a new version , we have to create a new commit.
+
+-`git add <filename>` -> starts tracking your new changes for the next commit
+-`git commit -m "<messege>"` -> this creates a new version based on your prev changes
