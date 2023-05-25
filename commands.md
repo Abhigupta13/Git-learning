@@ -18,7 +18,7 @@ note -> a new version -> a new commit {if we have to create a new version , we h
 
 -`git add . ` -> adds all the files at once
 
--`git commit -m "<messege>"` -> this creates a new version based on your prev changes
+-`git commit -m "<messege>"` -> this creates a new version based on your previous changes
 
 -`git push`  -> this pushe all new changes in github
 
