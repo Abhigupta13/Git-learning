@@ -9,6 +9,7 @@
 -`git config --global user.name "Abhigupta13"` then enter
 
 -`git init` ->it initializes a new git repository.
+
  what is repository?
  -> it is a folder managed by git where wwe can track all the changes we are making in the project.
 
