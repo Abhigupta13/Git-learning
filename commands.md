@@ -23,15 +23,15 @@ note -> a new version -> a new commit {if we have to create a new version , we h
 
 -`git push`  -> this pushe all new changes in github
 
--``  ->
+-`find`  -> in place of tree - to get all file name in any dir
 
--``  ->
+-`rm -rf file`  -> remove directory
 
--``  ->
+-`git log --oneline`  ->  the commit head pointed to
 
--``  ->
+-`git status`  ->  shows untracked and staged files
 
--``  ->
+-`` ->
 
 -``  ->
 
